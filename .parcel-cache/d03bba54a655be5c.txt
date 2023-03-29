@@ -1,4 +1,4 @@
-7934
+7926
 139C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\optimizer-terser\package.json133245594680425426 0
 144C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\string\virtual\trim-left.js133245599374838675 0
 132C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\type-fest\source\value-of.d.ts133245594702559584 0
@@ -10,7 +10,7 @@
 130C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\stable\symbol\for.js133245599237140203 0
 132C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\lmdb\dependencies\lmdb-data-v1133245594674530934 1
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\features\reflect\apply.js133245599061336450 0
-101C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\package.json133245605725932066 0
+101C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\package.json133245612706682227 0
 134C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\regexp\dot-all.js133245599134739831 0
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\promise\all-settled.js133245599060176560 0
 122C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\globals\globals.json133245594678440487 0
@@ -23,7 +23,7 @@
 134C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.string.raw.js133245599190439337 0
 136C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\instance\trim-left.js133245599375295279 0
 147C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\dom-exception\to-string-tag.js133245599368458200 0
-99C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\.gitignore132886955210000000 0
+99C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\.gitignore133245612750830438 0
 134C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\typed-array\fill.js133245599212571431 0
 130C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\number\index.js133245599273509752 0
 141C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\packager-css\lib\CSSPackager.js133245594676395948 0
@@ -37,7 +37,7 @@
 133C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\source-map\lib\binary-search.js133245594685649053 0
 153C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133245594701518760 0
 130C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\internals\ieee754.js133245599255671259 0
-93C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist133245605860878669 1
+93C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist133245614805147592 1
 110C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\svgo\lib133245594716291732 1
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\cosmiconfig\dist\loaders.d.ts.map133245594697559355 0
 157C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133245594710424942 0
@@ -1091,7 +1091,7 @@
 124C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\yaml\browser\scalar.js133245594699683662 0
 136C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\features\symbol\key-for.js133245599294933616 0
 133C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\features\url\to-json.js133245599363501456 0
-112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\icons.c14567a0.svg133245605860569484 0
+112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\icons.c14567a0.svg133245614805039573 0
 124C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\yaml\browser\schema.js133245594700880468 0
 126C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\picocolors\picocolors.js133245594677433182 0
 140C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\array\virtual\iterator.js133245599292481472 0
@@ -1373,7 +1373,6 @@
 133C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\date\get-year.js133245599247748736 0
 130C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\string\fixed.js133245599222292936 0
 136C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\features\set\delete-all.js133245599110892161 0
-115C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.e37f48ea.js.map133245600433465238 0
 125C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\hash\browser.js133245594677734986 0
 121C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\lmdb\src\cursor.cpp133245594716310910 0
 130C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\features\set\some.js133245599345499477 0
@@ -1497,7 +1496,7 @@
 142C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\transformer-js\src\loadNative.js133245594685661173 0
 112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\terser\lib133245594708929674 1
 141C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\proposals\map-upsert-stage-2.js133245599303394926 0
-112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.987de634.css133245605860569484 0
+112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.987de634.css133245614805047864 0
 125C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\math\tanh.js133245599360708926 0
 119C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\terser\PATRONS.md133245594710515896 0
 122C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\terser\lib\output.js133245594705178978 0
@@ -4240,7 +4239,7 @@
 138C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\object\define-property.js133245599107853656 0
 140C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.array.find-index.js133245599167285688 0
 118C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\full\set133245599391160109 1
-111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\logo.8a7af738.png133245605858002627 0
+111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\logo.8a7af738.png133245614803991136 0
 132C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@jridgewell\trace-mapping\dist133245594687357812 1
 138C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.array.for-each.js133245599171525893 0
 131C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\internals\is-array.js133245599280678970 0
@@ -4390,7 +4389,7 @@
 150C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.reflect.prevent-extensions.js133245599186815064 0
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.reflect.set.js133245599187114197 0
 145C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.reflect.to-string-tag.js133245599187164070 0
-114C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\favicon.76dd299c.png133245605858002627 0
+114C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\favicon.76dd299c.png133245614803991136 0
 141C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@swc\helpers\lib\_async_to_generator.js133245594687586029 0
 138C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.regexp.dot-all.js133245599187273774 0
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\es.regexp.test.js133245599187622839 0
@@ -4543,7 +4542,6 @@
 140C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\object\define-setter.js133245599108980646 0
 136C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\esnext.array.at.js133245599197289032 0
 143C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\esnext.array.find-last.js133245599197488512 0
-112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.f7626f62.css133245600433465238 0
 144C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\esnext.array.from-async.js133245599197588237 0
 149C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\esnext.array.group-by-to-map.js133245599197677988 0
 143C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\modules\esnext.array.last-item.js133245599198157850 0
@@ -5902,7 +5900,6 @@
 131C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\actual\object\keys.js133245599295335521 0
 125C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\parse-int.js133245599317973491 0
 120C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\promise133245599262603586 1
-116C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.f7626f62.css.map133245600433507047 0
 126C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\date\index.js133245599261947332 0
 122C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\README.md133245599405791054 0
 120C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\core-js\es\reflect133245599369076210 1
@@ -6995,7 +6992,6 @@
 148C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\multibackgrounds.js133245594743426685 0
 147C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\mutation-events.js133245594743499594 0
 139C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\netinfo.js133245594743905400 0
-111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.e37f48ea.js133245600433326122 0
 142C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\object-fit.js133245594744244502 0
 147C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\offscreencanvas.js133245594744385472 0
 151C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\caniuse-lite\data\features\once-event-listener.js133245594744553680 0
@@ -7646,7 +7642,6 @@
 178C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js133245594708908998 0
 186C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\package.json133245594717266644 0
 177C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src133245594714504046 1
-112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\icons.21bad73c.svg133245600433405396 0
 184C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\main.js133245594707831877 0
 167C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\index.js133245594701150269 0
 171C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\package.json133245594716951215 0
@@ -7716,7 +7711,6 @@
 127C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@jridgewell\trace-mapping133245594684643899 1
 147C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133245594718992035 0
 139C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\core\test\PublicAsset.test.js133245594719650270 0
-111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\logo.726d37a8.png133245600433106202 0
 140C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\core\test\PublicBundle.test.js133245594719730058 0
 135C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\core\test\fixtures\config133245594689251572 1
 153C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\@parcel\core\test\fixtures\config-extends-not-found133245594691535460 1
@@ -7927,9 +7921,7 @@
 115C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\.bin\svgo.cmd133245594756581497 0
 113C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\.bin\terser133245594756582678 0
 117C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\node_modules\.bin\terser.cmd133245594756582678 0
-114C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\favicon.8b2f57bf.png133245600433036387 0
-112C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\icons.dfd7a6db.svg133245600433405396 0
-111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.7d74e5c2.js133245605860579463 0
-115C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.7d74e5c2.js.map133245605860818810 0
-116C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.987de634.css.map133245605860809745 0
-104C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.html133245605860569484 0
+111C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.7d74e5c2.js133245614805047864 0
+115C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.7d74e5c2.js.map133245614805137511 0
+116C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.987de634.css.map133245614805134969 0
+104C:\Users\vyshn\OneDrive\Desktop\LOBBY\Java Script Project\Js 2021\forky\final\Main files\dist\index.html133245614805039573 0
